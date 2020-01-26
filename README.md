@@ -1,4 +1,6 @@
 # Module2Assignment
+
+
 <!DOCTYPE html>
   <html>
     <head>
@@ -32,22 +34,23 @@ p, li, dd, dt, address {
       </head>
 
       <body>
-      Dr. Eleanor Gaye
+      <class<p>
+      <strong>Dr. Eleanor Gaye</strong>
       Awesome Science faculty
       University of Awesome
       Bobtown, CA 99999,
       USA
-      Tel: 123-456-7890
-      Email: no_reply@example.com
+      <strong>Tel: 123-456-7890
+      Email: no_reply@example.com</strong></p>
 
       20 January 2016
 
-      Miss Eileen Dover
+      <p><strong>Miss Eileen Dover</strong>
       4321 Cliff Top Edge
       Dover, CT9 XXX
-      UK
+      UK</p>
 
-      Re: Eileen Dover university application
+      <h1>Re: Eileen Dover university application</h1>
 
       Dear Eileen,
 
